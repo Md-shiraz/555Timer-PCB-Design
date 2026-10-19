@@ -178,7 +178,7 @@
 		(property ki_fp_filters "D*DO?41*")
 		(path "/876bb690-ddbc-4e8f-9c3a-520559b4b18e")
 		(sheetname "/")
-		(sheetfile "Tinkeringlab.kicad_sch")
+		(sheetfile "555Timer.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -485,7 +485,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/b836e4b4-f5c6-41be-b0f7-7a2648e93fdb")
 		(sheetname "/")
-		(sheetfile "Tinkeringlab.kicad_sch")
+		(sheetfile "555Timer.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -813,7 +813,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b7df4e29-d171-4a9b-9c1e-b2437367e5f5")
 		(sheetname "/")
-		(sheetfile "Tinkeringlab.kicad_sch")
+		(sheetfile "555Timer.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1013,7 +1013,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm*")
 		(path "/e1a0c830-b6ef-41a5-82e7-80689a6c7669")
 		(sheetname "/")
-		(sheetfile "Tinkeringlab.kicad_sch")
+		(sheetfile "555Timer.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1328,7 +1328,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/93ab51b1-582b-44ce-887f-6d33139c78fa")
 		(sheetname "/")
-		(sheetfile "Tinkeringlab.kicad_sch")
+		(sheetfile "555Timer.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1548,7 +1548,7 @@
 		(property ki_fp_filters "PinHeader*P2.54mm* TerminalBlock*")
 		(path "/bd94ec08-c53e-4997-95b2-f6155235933c")
 		(sheetname "/")
-		(sheetfile "Tinkeringlab.kicad_sch")
+		(sheetfile "555Timer.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1914,7 +1914,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7e095593-2b05-40a4-966d-1464bea81127")
 		(sheetname "/")
-		(sheetfile "Tinkeringlab.kicad_sch")
+		(sheetfile "555Timer.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2160,7 +2160,7 @@
 		(property ki_fp_filters "D*DO?41*")
 		(path "/a37f82a9-57ec-4e32-b063-bfd69264d749")
 		(sheetname "/")
-		(sheetfile "Tinkeringlab.kicad_sch")
+		(sheetfile "555Timer.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2435,7 +2435,7 @@
 		)
 		(path "/bfed0c16-18e7-477f-a809-08ebde2e1403")
 		(sheetname "/")
-		(sheetfile "Tinkeringlab.kicad_sch")
+		(sheetfile "555Timer.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2688,7 +2688,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/79264ce6-0040-419d-b835-c39f34053ce6")
 		(sheetname "/")
-		(sheetfile "Tinkeringlab.kicad_sch")
+		(sheetfile "555Timer.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2888,7 +2888,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/5d19c220-2dc6-475e-820b-8a889178df4d")
 		(sheetname "/")
-		(sheetfile "Tinkeringlab.kicad_sch")
+		(sheetfile "555Timer.kicad_sch")
 		(units
 			(unit
 				(name "A")

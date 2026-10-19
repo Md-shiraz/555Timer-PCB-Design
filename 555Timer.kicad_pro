@@ -492,7 +492,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Tinkeringlab.kicad_pro",
+    "filename": "555Timer.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -668,7 +668,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Tinkeringlab.kicad_sch",
+        "filename": "555Timer.kicad_sch",
         "name": "Root",
         "uuid": "f24634c0-7306-4f84-8ab1-d36ca1433f04"
       }

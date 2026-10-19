@@ -6,13 +6,13 @@ A KiCad hardware project for an adjustable 555-timer-driven DC motor switch. An 
 
 | File | Description |
 | --- | --- |
-| `Tinkeringlab.kicad_pro` | KiCad project settings |
-| `Tinkeringlab.kicad_sch` | Circuit schematic |
-| `Tinkeringlab.kicad_pcb` | PCB layout |
+| `555Timer.kicad_pro` | KiCad project settings |
+| `555Timer.kicad_sch` | Circuit schematic |
+| `555Timer.kicad_pcb` | PCB layout |
 | `docs/control-circuit.png` | Schematic overview |
 | `docs/pcb-top-view.png` | 3D view of the PCB |
 
-Open `Tinkeringlab.kicad_pro` in KiCad to access the schematic and board together.
+Open `555Timer.kicad_pro` in KiCad to access the schematic and board together.
 
 ## How the circuit works
 
@@ -49,7 +49,7 @@ The MOSFET symbol is generic; select a specific part only after checking its pin
 ## Getting started
 
 1. Install KiCad 8 or newer.
-2. Open `Tinkeringlab.kicad_pro`.
+2. Open `555Timer.kicad_pro`.
 3. Review the schematic and PCB together. Check the MOSFET pin mapping, motor-terminal polarity, component values, and footprints against the parts you intend to use.
 4. Run the Electrical Rules Checker (ERC) on the schematic and the Design Rules Checker (DRC) on the PCB. Resolve errors and review warnings; do not assume a passing check establishes that the design is electrically or thermally suitable.
 5. For fabrication, plot the required Gerber copper, solder-mask, silkscreen, and board-outline layers, and generate drill files. Inspect the generated files and confirm the manufacturer's capabilities before ordering.
